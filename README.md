@@ -1,5 +1,7 @@
 # nf_streamlit_small_app
 
+This code challenge should be executed within **1 week**. With your results and code, open a new **private** repo and include **bioinfo@ryvu.com** as collaborator or viewer.
+
 ## Nextflow usage and modification
 
 ### Clone: https://nf-co.re/differentialabundance/1.5.0/docs/usage
